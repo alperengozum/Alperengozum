@@ -31,6 +31,7 @@ Full-stack & mobile developer. I focus on building things that are actually usef
 |---|---|
 | [Sleepwell](https://github.com/alperengozum/Sleepwell) | Sleep cycle calculator — React Native / Expo |
 | [expo-alarm](https://github.com/alperengozum/expo-alarm) | Native Android AlarmClock integration for Expo |
+| [water-reminder](https://github.com/alperengozum/water-reminder) | Hydration tracker — React Native / Expo |
 
 ## Stats
 
